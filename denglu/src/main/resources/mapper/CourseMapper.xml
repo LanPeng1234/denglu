@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.denglu.mapper.CourseMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.denglu.pojo.Course">
+        <id column="id" property="id" />
+        <result column="maintime" property="maintime" />
+        <result column="time" property="time" />
+        <result column="classname" property="classname" />
+        <result column="teacher" property="teacher" />
+        <result column="pid" property="pid" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, maintime, time, classname,teacher, pid
+    </sql>
+
+</mapper>

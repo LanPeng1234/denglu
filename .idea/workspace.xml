@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0680c0ef-5e0c-46db-9d04-aad50933c2c8" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ssm/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\ssm\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8 (2)" />
+  </component>
+  <component name="ProjectId" id="2MwjI5OYVInIigQmPUgVY8kZvSZ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../二级项目-网络工程-第8组-网络即时通讯系统/源程序/web-chat-room" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12276\Desktop\denglu\denglu\src\main\java\com\example\denglu\service\impl" />
+      <recent name="C:\Users\12276\Desktop\denglu\denglu\src\main\java\com\example\denglu\service" />
+      <recent name="C:\Users\12276\Desktop\denglu\denglu\src\main\java\com\example\denglu\pojo" />
+      <recent name="C:\Users\12276\Desktop\denglu\denglu\src\main\java\com\example\denglu\mapper" />
+      <recent name="C:\Users\12276\Desktop\denglu\denglu\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DengluApplication">
+    <configuration name="CodeGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jxccodegeneration.CodeGeneration" />
+      <module name="jxc-code-geration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jxccodegeneration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DengluApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="denglu (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.denglu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.denglu.DengluApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DengluApplication" />
+      <item itemvalue="应用程序.CodeGeneration" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DengluApplication" />
+        <item itemvalue="应用程序.CodeGeneration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0680c0ef-5e0c-46db-9d04-aad50933c2c8" name="默认变更列表" comment="" />
+      <created>1678685459683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678685459683</updated>
+      <workItem from="1678685463158" duration="9000" />
+      <workItem from="1678685548542" duration="476000" />
+      <workItem from="1678686603351" duration="8000" />
+      <workItem from="1678690876098" duration="6570000" />
+      <workItem from="1679147246443" duration="178000" />
+      <workItem from="1679147722080" duration="58000" />
+      <workItem from="1679217185633" duration="1487000" />
+      <workItem from="1679359446263" duration="447000" />
+      <workItem from="1679452555507" duration="1219000" />
+      <workItem from="1679456008936" duration="613000" />
+      <workItem from="1679470938713" duration="615000" />
+      <workItem from="1679648277705" duration="287000" />
+      <workItem from="1679648589957" duration="3063000" />
+      <workItem from="1679657795170" duration="3301000" />
+      <workItem from="1679676836261" duration="6000" />
+      <workItem from="1679723920799" duration="492000" />
+      <workItem from="1679726606107" duration="168000" />
+      <workItem from="1679738470225" duration="396000" />
+      <workItem from="1679739056659" duration="8000" />
+      <workItem from="1679811444633" duration="4507000" />
+      <workItem from="1679973095484" duration="326000" />
+      <workItem from="1679974576264" duration="465000" />
+      <workItem from="1680060320083" duration="2000" />
+      <workItem from="1680060455405" duration="243000" />
+      <workItem from="1680083557479" duration="1398000" />
+      <workItem from="1680096279171" duration="51000" />
+      <workItem from="1680185311304" duration="2249000" />
+      <workItem from="1680263225532" duration="3000" />
+      <workItem from="1680263344189" duration="1561000" />
+      <workItem from="1680350819352" duration="1247000" />
+      <workItem from="1680501284876" duration="8000" />
+      <workItem from="1680529131004" duration="171000" />
+      <workItem from="1680596315601" duration="47000" />
+      <workItem from="1680681001008" duration="696000" />
+      <workItem from="1680790917962" duration="73000" />
+      <workItem from="1680791019695" duration="332000" />
+      <workItem from="1680791526511" duration="1574000" />
+      <workItem from="1680941083237" duration="1320000" />
+      <workItem from="1681194773611" duration="170000" />
+      <workItem from="1681196971973" duration="597000" />
+      <workItem from="1681997462565" duration="4950000" />
+      <workItem from="1683181682188" duration="1391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

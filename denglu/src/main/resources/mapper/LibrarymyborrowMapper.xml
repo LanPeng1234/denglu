@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.denglu.mapper.LibrarymyborrowMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.denglu.pojo.Librarymyborrow">
+        <id column="pid" property="pid" />
+        <result column="borrowBooksTime" property="borrowBooksTime" />
+        <result column="returnBooksTime" property="returnBooksTime" />
+        <result column="id" property="id" />
+        <result column="bookName" property="bookName" />
+        <result column="liable" property="liable" />
+        <result column="status" property="status" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        pid, borrowBooksTime, returnBooksTime, id, bookName, liable, status
+    </sql>
+
+</mapper>
